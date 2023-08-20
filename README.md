@@ -1,5 +1,5 @@
 # Drum-kit
-Drum-kit With Sound
+
 This is a drum kit web app that allows you to play different drum sounds.
 
 To play a drum sound, click on the corresponding button. The buttons are labeled with the letters w, a, s, d, j, k, and l.
