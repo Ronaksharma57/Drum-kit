@@ -17,11 +17,11 @@ footer {
 }
 
 .w {
-background-image: url("/images/crash.png");
+background-image: url("images/crash.png");
 }
 
 .a {
-  background-image: url("/images/kick.png");
+  background-image: url("images/kick.png");
 
 }
 
