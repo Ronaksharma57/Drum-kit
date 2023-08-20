@@ -48,10 +48,13 @@ background-image: url("images/tom2.png");
   background-image: url("images/tom4.png");
 
 }
- .set {
-  margin: 10% auto;
-}
 
+.set{
+  margin: 10% auto;
+  display: grid;
+  justify-content: center ;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
 
 .drum {
   outline: none;
@@ -63,7 +66,6 @@ background-image: url("images/tom2.png");
   color: #DA0463;
   text-shadow: 3px 0 #DBEDF3;
   border-radius: 15px;
-  display: inline-block;
   width: 150px;
   height: 150px;
   text-align: center;
